@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="MultithreadedMatrixMultiplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultithreadedMatrixMultiplication_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MultithreadedMatrixMultiplication.jar">
+        <element id="module-output" name="MultithreadedMatrixMultiplication" />
+      </element>
+    </root>
+  </artifact>
+</component>
